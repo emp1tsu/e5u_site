@@ -4,7 +4,7 @@
       <a
         href="#"
         class="font-sans text-black md:text-white text-sm md:text-4xl font-thin"
-        >Massive Dynamics</a
+        >Header</a
       >
       <ul class="list-reset flex">
         <li>
